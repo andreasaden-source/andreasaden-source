@@ -24,6 +24,6 @@ _Learning_ **OpenGL**, **Dart** & **Go** currently.
 
 Not that deep into React, I mainly just use Javascript + Sass by default.
 
-**[Linktree](https://www.linktr.ee/andreasadendorff)** - my socials.
+**[Linktree](https://www.linktr.ee/andreasadendorff)** - Socials
 
 ---
