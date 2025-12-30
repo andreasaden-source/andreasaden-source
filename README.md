@@ -22,8 +22,6 @@ d88P     888 888  888  "Y88888 888     "Y8888  "Y888888  88888P'
 
 _Learning_ **OpenGL**, **Dart** & **Go** currently.
 
-Not that deep into React, I mainly just use Javascript + Sass by default.
-
 **[Linktree](https://www.linktr.ee/andreasadendorff)** - Socials
 
 ---
