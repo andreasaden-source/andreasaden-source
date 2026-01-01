@@ -18,7 +18,7 @@
 
 <pre><img width="140" src="./img/socials.svg">
 
-- <a style="color:#FF6689;" href="https://www.linktr.ee/andreasadendorff">Linktree</a>
-- <a style="color:#FF66BD;" href="https://www.instagram.com/andreasadendorff">Instagram</a>
-- <a style="color:#FF66FC;" href="https://www.linkedin.com/in/andreas-adendorff-6b4836392">LinkedIn</a>
+- <a style="color:#FF6689;text-decoration:none;" href="https://www.linktr.ee/andreasadendorff">Linktree</a>
+- <a style="color:#FF66BD;text-decoration:none;" href="https://www.instagram.com/andreasadendorff">Instagram</a>
+- <a style="color:#FF66FC;text-decoration:none;" href="https://www.linkedin.com/in/andreas-adendorff-6b4836392">LinkedIn</a>
 </pre>
